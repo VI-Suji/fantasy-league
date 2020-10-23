@@ -54,7 +54,7 @@ body {
 
   }
   .container-fluid {
-    padding: 15% 10%;
+     padding: 13% 1%;
   }
 
   @media (max-width: 1028px) {
